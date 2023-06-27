@@ -21,7 +21,7 @@ public class amazon {
 		WebDriverManager.firefoxdriver().setup();
 		 WebDriver driver =new FirefoxDriver();
 		driver.get("https://www.amazon.in/");
-		System.out.println();
+		System.out.println("added");
 //		Thread.sleep(15000);
 //		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 		
